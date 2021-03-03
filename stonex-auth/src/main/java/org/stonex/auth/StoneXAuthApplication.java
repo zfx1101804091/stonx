@@ -1,8 +1,7 @@
-package org.stonex.common.auth;
+package org.stonex.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
-import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringCloudApplication
 //@EnableHystrix

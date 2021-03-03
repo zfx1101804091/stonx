@@ -1,4 +1,4 @@
-package org.stonex.common.auth.handler;
+package org.stonex.auth.handler;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
